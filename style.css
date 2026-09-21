@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(
+        135deg,
+        #ea0b0b,
+        #110014
+    );
+
+    font-family: Monaco;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+    margin: 0;
+}
+.conteiner{
+
+    width:350px;
+    margin:60px auto;
+    background-color:white;
+    padding:30px;
+    border-radius:15px;
+    text-align:center;
+}
+
+
